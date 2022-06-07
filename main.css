@@ -1,0 +1,31 @@
+body {
+    background-color: mintcream;
+    color: DarkSlateGray;
+    font-family: Georgia, Arial, serif;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+h1 {
+    color: Salmon
+    font-size: 44px;
+}
+
+h2 {
+    color: DarkSalmon;
+    font-size: 32px;
+}
+
+h3 {
+    color: DarkSlateGray;
+    font-size: 22px;
+}
+
+
+.list {
+    color: SteelBlue;
+    font-size: 22px;
+    font-family: Georgia, Arial, serif;
+}
